@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"> SpotifyClone</string>
+    <string name="loginText">Log in to continue.</string>
+    <string name="emailEditText">Email or username</string>
+    <string name="passwordEditText">Password</string>
+    <string name="loginButtonText">LOG IN</string>
+</resources>
